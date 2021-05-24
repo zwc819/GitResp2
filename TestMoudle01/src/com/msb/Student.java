@@ -6,4 +6,6 @@ package com.msb;
  * @Version
  */
 public class Student {
+    private int age;
+    private String name;
 }
